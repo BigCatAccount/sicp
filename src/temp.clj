@@ -4,4 +4,8 @@
   []
   (println "Hello, SICP!"))
 
-(say-hi)
+(defn my-sum
+  [xs]
+  (reduce + xs))
+
+;(say-hi)
