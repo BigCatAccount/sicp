@@ -4,9 +4,8 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mpechorin</groupId>
-    <artifactId>shoutout-static</artifactId>
+    <artifactId>sicp</artifactId>
     <packaging>pom</packaging>
-    <name>sicp</name>
     <version>1.0.0-SNAPSHOT</version>
     <description>SICP course and book exercises</description>
 
