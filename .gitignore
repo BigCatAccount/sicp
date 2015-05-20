@@ -2,3 +2,6 @@
 target
 .iml
 .lein-failures
+.lein-repl-history
+.lein-failures
+.nrepl-port
